@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282176490571",
+    "project_id": "online-game-28cc4",
+    "storage_bucket": "online-game-28cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282176490571:android:9f691b85c50d1ca2e811ce",
+        "android_client_info": {
+          "package_name": "uz.mlsoft.tictacrealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQSMygixpfN-AyPg2KrqE_DKCljAC_iK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
